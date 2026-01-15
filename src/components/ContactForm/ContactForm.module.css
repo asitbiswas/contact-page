@@ -3,7 +3,7 @@
   grid-template-columns: 1fr 1fr; /* desktop: 50/50 */
   gap: 81px;
   align-items: center;
-  max-width: 90%;
+  max-width: 86%;
   justify-content: center;
   margin: 0 auto;
   height: calc(100vh - 500px);          /* exactly one screen */
