@@ -14,9 +14,4 @@
     width: 90%;
 }
 
-@media (max-height: 800px) {
-    .contact_section{
-        margin-left: 40px;
-        
-    }
-}
+
