@@ -50,15 +50,15 @@ function ContactForm(){
               <div className={styles.submit_btn}>
                 <Button text="SUBMIT" />
               </div>
-              {/*
+              
               <div>
                 {"name:- "+name
                 + ", "+
                 "email:- "+email
-                +"; "+
+                +", "+
                 "text:- "+text}
               </div>
-              */}
+              
             </form>
           </div>
         </div>
